@@ -1,6 +1,97 @@
-body{
-  padding: 25px;
-}
-.title {
-	color: #5C6AC4;
-}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>sara
+    </title>
+    <link rel="stylesheet"
+          href="google.com">
+  </head>
+  <body>
+    <p> 
+      <em> sara said
+      </em>
+    </p>
+    <h1>en   sara
+    </h1>
+    <img   src="imag 1"
+         alt="sat"
+         >
+    <br> 
+    <a  href="google. com/" > 
+      google
+    </a>
+    </br>
+  <mark>sara
+  </mark>
+  <style>     p {
+    text-align:center;
+    }
+    p {
+      color:#53A61c;
+    }
+  </style>
+  <p>  iam an engineer    
+  </p>
+  
+  <div class="container">
+  </div>
+  <div  class="box red">red
+  </div>
+  <div  class="box green">green
+  </div>
+  <div  class="box yellow">yellow
+  </div>
+  <p> <style>   
+    .box{
+      width:60px;
+      text-align:center;
+      font-size:100px
+     font-weight:large;
+      margin:10px;
+      border:30px
+      height:300px
+      float:left;
+      padding:50px
+    }
+    .red {
+      background-color:red;
+      float:right;
+    }
+    .green{
+      background-color:green;
+      float:right;
+    }
+    .yellow{
+      background-color:yellow;
+      float:right;
+    }
+  </style>
+  <style> .box{
+    border:3px solid black;
+    width:30px;
+    }
+  </style>
+ </p>
+  
+  
+  
+  <ul><li> 1</li> <li>2 </li>
+   
+    </ul>
+  <style>
+  ul{width:300px;
+  height:300px;
+  display:flex;
+  flex-wrap:wrap;}
+    li{background-color:black ; 
+      list-style:none;
+      margin:0px;
+      width:90px;
+      font-size:80px ;
+      color:green;
+      height:90px;
+      border:1px solid yellow;
+      padding:50px;
+      float:right;}
+  </style>
